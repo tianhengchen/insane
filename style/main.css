@@ -17,6 +17,11 @@ font-family: "Microsoft YaHei";color:#fff;margin-right: 59px;}
 .shopnumber{width:56px;height:35px;border-left: #ff9c01 solid 1px;float:left;}
 /*navbox*/
 .navbox{height:35px;background-color:rgb(27, 107, 189);color:#fff;font-family: "Microsoft YaHei";}
-.shopclass{line-height:35px;width:190px;}
+.shopclass{line-height:35px}
+.shopclass h3{text-align: center;width:190px;}
 .nav li{float:left;}
 .nav a{height:35px;padding:0 35px;}
+.nav a:hover{background-color:rgb(74, 149, 249);}
+.block{background-color: rgb(74, 149, 249);color:#fff;}
+.block.special{background-color: rgb(25, 108 189);}
+.banner{}
