@@ -20,8 +20,8 @@ font-family: "Microsoft YaHei";color:#fff;margin-right: 59px;}
 .shopclass{line-height:35px}
 .shopclass h3{text-align: center;width:190px;}
 .nav li{float:left;}
-.nav a{height:35px;padding:0 35px;}
+.nav a{height:35px;padding:0 35px;float:right}
 .nav a:hover{background-color:rgb(74, 149, 249);}
-.block{background-color: rgb(74, 149, 249);color:#fff;}
+.block{background-color: rgb(74, 149, 249);color:#fff;float:left}
 .block.special{background-color: rgb(25, 108 189);}
 .banner{}
